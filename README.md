@@ -13,12 +13,15 @@ Este projeto tem como objetivo automatizar o processo de cadastro de produtos em
 
 ## 📁 Estrutura do Projeto
 
+## Estrutura do Projeto
+
+````plaintext
 automacao_cadastro/
-├── imgs/  
-│ ├── campo_email.png
-│ ├── campo_codigo.png
-│ ├── campo_codigo_apos_cadastro.png
-│ └── popup_ok.png
+├── imgs/
+│   ├── campo_email.png
+│   ├── campo_codigo.png
+│   ├── campo_codigo_apos_cadastro.png
+│   └── popup_ok.png
 ├── produtos.csv
 ├── cadastro.py
 └── README.md
@@ -37,7 +40,7 @@ automacao_cadastro/
 
 ```bash
 pip install pyautogui pandas pillow
-```
+````
 
 ### 🚀 Como Usar
 
