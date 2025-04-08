@@ -35,17 +35,17 @@ automacao_cadastro/
   - `pandas`
   - `pillow`
 
-### 🔧 Instalação das bibliotecas
-
-````bash
-pip install pyautogui pandas pillow
-````
-
 ### 🚀 Como Usar
 
 - Clone o repositório
   git clone https://github.com/seu-usuario/automacao-cadastro.git
   cd automacao-cadastro
+
+- Instalação das bibliotecas
+
+  ````bash
+  pip install pyautogui pandas pillow
+  ````
 
 - Execute o script:
   python cadastro.py
