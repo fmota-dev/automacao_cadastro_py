@@ -13,8 +13,6 @@ Este projeto tem como objetivo automatizar o processo de cadastro de produtos em
 
 ## 📁 Estrutura do Projeto
 
-## Estrutura do Projeto
-
 ````plaintext
 automacao_cadastro/
 ├── imgs/
@@ -25,6 +23,7 @@ automacao_cadastro/
 ├── produtos.csv
 ├── cadastro.py
 └── README.md
+````
 
 ## 📦 Requisitos
 
@@ -38,7 +37,7 @@ automacao_cadastro/
 
 ### 🔧 Instalação das bibliotecas
 
-```bash
+````bash
 pip install pyautogui pandas pillow
 ````
 
