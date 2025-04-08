@@ -50,7 +50,9 @@ automacao_cadastro/
   ````
 
 - Execute o script:
+  ````bash
   python cadastro.py
+  ````
 
 - Observe o processo de automação. O terminal mostrará os dados da planilha e, ao final, o tempo total da execução.
 
