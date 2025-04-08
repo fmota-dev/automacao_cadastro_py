@@ -1,0 +1,37 @@
+# PSEUDOCÓDIGO - Automação de Cadastro de Produtos
+
+1. Iniciar o processo
+    - Pausar para segurança entre os comandos do PyAutoGUI
+
+2. Abrir o navegador (Google Chrome)
+    - Pressionar tecla "Windows"
+    - Digitar "chrome"
+    - Pressionar "Enter"
+
+3. Acessar o site de login da empresa
+    - Digitar o link do sistema
+    - Pressionar "Enter"
+    - Esperar o carregamento da página
+
+4. Fazer login no sistema
+    - Clicar no campo de e-mail
+    - Digitar o e-mail
+    - Pressionar "Tab" para ir ao campo de senha
+    - Digitar a senha
+    - Clicar no botão de login
+    - Esperar o carregamento da área logada
+
+5. Importar os dados da planilha de produtos
+    - Carregar o arquivo CSV com pandas
+    - Visualizar o conteúdo da tabela (opcional)
+
+6. Para cada produto na planilha:
+    - Clicar no campo de código do produto
+    - Preencher os campos: código, marca, tipo, categoria, preço unitário, custo
+    - Se houver observações, preencher também
+    - Pressionar "Tab" para navegar entre os campos
+    - Pressionar "Enter" para cadastrar o produto
+    - Fazer scroll para o topo da página caso necessário
+    - Repetir o processo para o próximo produto
+
+7. Fim do processo
