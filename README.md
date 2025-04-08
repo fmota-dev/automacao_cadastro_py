@@ -58,6 +58,7 @@ automacao_cadastro/
 
 ## ✅ Resultado
 
-Ao final da execução, o terminal exibirá algo como:
-
-✅ Cadastro finalizado! Tempo total: 2m 45s.
+- Ao final da execução, o terminal exibirá algo como:
+````bash
+  ✅ Cadastro finalizado! Tempo total: 2m 45s.
+````
