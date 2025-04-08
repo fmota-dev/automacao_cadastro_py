@@ -38,8 +38,10 @@ automacao_cadastro/
 ### 🚀 Como Usar
 
 - Clone o repositório
+  ````
   git clone https://github.com/fmota-dev/automacao_cadastro_py.git
   cd automacao-cadastro
+  ````
 
 - Instalação das bibliotecas
 
